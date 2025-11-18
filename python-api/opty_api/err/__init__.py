@@ -1,0 +1,3 @@
+"""
+Opty_Api exceptions.
+"""

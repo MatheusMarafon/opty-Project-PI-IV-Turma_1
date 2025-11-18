@@ -1,0 +1,3 @@
+"""
+Create profile schema module.
+"""
