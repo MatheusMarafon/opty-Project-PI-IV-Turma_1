@@ -234,6 +234,7 @@ src/
 ├── pages/              # Application pages
 │   ├── Index.tsx       # Home page
 │   ├── Login.tsx       # Login page
+│   ├── ResetSenha.tsx  # Password reset page
 │   ├── Register.tsx    # Registration page
 │   ├── Onboarding.tsx  # Onboarding process
 │   ├── Dashboard.tsx   # Main dashboard
@@ -246,10 +247,12 @@ src/
 └── main.tsx            # Entry point
 ```
 
+
 ## Available Routes
 
 - `/` - Home page
 - `/login` - User authentication
+- `/reset-senha` - Password reset page
 - `/register` - New user registration
 - `/onboarding` - Onboarding process
 - `/dashboard` - Main dashboard
